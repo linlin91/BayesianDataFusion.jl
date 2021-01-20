@@ -1,6 +1,5 @@
 julia 0.4
 DataFrames 0.8
 Distributions 0.10
-Iterators=a4bce56a-f44e-563f-a45f-5312daf41243
 Compat 0.9
 PDMats 0.5
